@@ -1,8 +1,0 @@
-name: WizardCodeTikTok
-version: '${project.version}'
-main: xyz.siema.live.tiktoklive.WizardCodeTikTok
-api-version: '1.19'
-commands:
-  tiktok:
-    description: Twoja opis komendy
-    usage: /tiktok (nick) add/remove/reset/pickaxe (ilosc)
