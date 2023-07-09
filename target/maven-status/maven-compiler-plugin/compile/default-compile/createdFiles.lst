@@ -1,0 +1,15 @@
+xyz\siema\live\tiktoklive\helpers\PickaxeHelpers.class
+xyz\siema\live\tiktoklive\tasks\TasksPickaxe.class
+xyz\siema\live\tiktoklive\listeners\PlayerJoinListeners.class
+xyz\siema\live\tiktoklive\basic\Main.class
+xyz\siema\live\tiktoklive\helpers\FireworkHelpers.class
+xyz\siema\live\tiktoklive\helpers\HologramHelpers.class
+xyz\siema\live\tiktoklive\helpers\ActionBarHelpers.class
+xyz\siema\live\tiktoklive\registry\Registry.class
+xyz\siema\live\tiktoklive\commands\ControlCommands.class
+xyz\siema\live\tiktoklive\helpers\config\Config.class
+xyz\siema\live\tiktoklive\WizardCodeTikTok.class
+xyz\siema\live\tiktoklive\helpers\BlockHelpers.class
+xyz\siema\live\tiktoklive\helpers\variables\SystemVariables.class
+xyz\siema\live\tiktoklive\listeners\PlayerBreakBlockListeners.class
+xyz\siema\live\tiktoklive\helpers\ColorHelpers.class
